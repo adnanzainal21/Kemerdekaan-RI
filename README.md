@@ -1,2 +1,2 @@
-# SejarahKemerdekaan-RI
+# Sejarah Kemerdekaan RI
 Website sejarah kemerdekaan republik Indonesia
